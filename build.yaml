@@ -1,0 +1,17 @@
+
+---
+name: "Big Finish Metadata"
+guid: "7e2c6f91-8a43-4b12-9d65-2f0b7a41c836"
+version: "1.0.0.0"
+targetAbi: "12.2.0.0"
+framework: "net10.0"
+overview: "Big Finish audio drama metadata for Jellyfin"
+description: >
+  Retrieves Big Finish audiobook and audio drama metadata,
+  descriptions and artwork from a configured abs-agg API.
+category: "Metadata"
+owner: "cyborgt100"
+artifacts:
+  - "Jellyfin.Plugin.BigFinish.dll"
+changelog: >
+  Initial release.
